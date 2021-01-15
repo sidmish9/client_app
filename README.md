@@ -1,5 +1,7 @@
 ## Functions
 
+### Smart contracts
+- Smart conracts(doctor.sol and patient.sol) are written for the xinfin network, which define how the doctor and patient data would be interacted and recorded.
 ### Admin
 
 - Signup their account. Then Login (No approval Required).
