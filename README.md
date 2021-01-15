@@ -54,9 +54,9 @@ http://127.0.0.1:8000/
 
 ## Disclaimer
 
-This is the demo of how the smart contracts written in apex3 will affect the apex client, I couldnt link the final xinfin smart contract due to errors in web3py about which I will contact xinfin for assistance, also note that
+This is the demo of how the smart contracts written in solidity will affect the client (just an integrated web3app), I couldnt link the final xinfin smart contract due to errors in web3py about which I will contact xinfin for assistance, also note that
 To make the login authentication system I used the django template for the same as mentioned on the system website.
 
 ## Feedback
 
-The feedback given by the judges is valuable, please do contact me via discord(T1TAN_01) or email (smishra1_be18@thapar.edu)
+The feedback given by the judges is valuable, please do contact me via email (smishra1_be18@thapar.edu)
