@@ -2,7 +2,7 @@
 
 ### Smart contracts
 - Smart conracts(doctor.sol and patient.sol) are written for the xinfin network, which define how the doctor and patient data would be interacted and recorded, the preffered ide is remix(XDC) and the tesnet netwrok is the apothem testnet.
--To deploy the smart conrtacts to XINFIN network, on connecting to apothem testnet, we would need to call them in our integrated application(client app) using WEB3.js (or web3.py based on the application)
+- To deploy the smart conrtacts to XINFIN network, on connecting to apothem testnet, we would need to call them in our integrated application(client app) using WEB3.js (or web3.py based on the application)
 ### Admin
 
 - Signup their account. Then Login (No approval Required).
